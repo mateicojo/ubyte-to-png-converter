@@ -1,5 +1,7 @@
 # UByte to PNG converter
 **Cool little script to convert .ubyte files to .png**
+
+**Note: There is another UByte to PNG converter on github which is similar to this one, the difference is that this one only converts the two formats, losing the labels. Useful in case you want to use a certain dataset and do your own labeling!!!**
 # Usage
 - Clone the repo with
   ```
@@ -11,3 +13,4 @@
   output_folder = '' # Folder to save images
   ```
 - Run the scrypt
+
