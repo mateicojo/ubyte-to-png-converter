@@ -3,7 +3,7 @@
 # Usage
 - Clone the repo with
   ```
-  git clone https://github.com/mateicojo/ubyte-to-png-converter/tree/master
+  git clone https://github.com/mateicojo/ubyte-to-png-converter
   ```
 - Open the .py file and paste your paths at lines 16 and 17
   ```
